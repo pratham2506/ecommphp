@@ -1,0 +1,9 @@
+.logo{
+    width: 70px;
+    height: 70px;
+}
+
+.admin_image{
+    width: 100px;
+    object-fit: contain;
+}
